@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.netcore\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|d:\\asp.netcore\\webapplication3\\webapplication3\\views\\musteriislemleri\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|solutionrelative:webapplication3\\views\\musteriislemleri\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|d:\\asp.netcore\\webapplication3\\webapplication3\\views\\musteriislemleri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|solutionrelative:webapplication3\\views\\musteriislemleri\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|d:\\asp.netcore\\webapplication3\\webapplication3\\controllers\\musteriislemlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|solutionrelative:webapplication3\\controllers\\musteriislemlericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|d:\\asp.netcore\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|d:\\asp.netcore\\webapplication3\\webapplication3\\views\\musteriislemleri\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08AA4A42-54CC-4ACA-A92E-FA67FCCF0DD3}|WebApplication3\\CRUD.csproj|solutionrelative:webapplication3\\views\\musteriislemleri\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Views\\MusteriIslemleri\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\MusteriIslemleri\\Index.cshtml",
+              "ToolTip": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Views\\MusteriIslemleri\\Index.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\MusteriIslemleri\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T08:03:18.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Views\\MusteriIslemleri\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\MusteriIslemleri\\Edit.cshtml",
+              "ToolTip": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Views\\MusteriIslemleri\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\MusteriIslemleri\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T08:06:47.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Views\\MusteriIslemleri\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\MusteriIslemleri\\Delete.cshtml",
+              "ToolTip": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Views\\MusteriIslemleri\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication3\\Views\\MusteriIslemleri\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T07:38:17.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:38:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusteriIslemleriController.cs",
+              "DocumentMoniker": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Controllers\\MusteriIslemleriController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\MusteriIslemleriController.cs",
+              "ToolTip": "D:\\asp.netcore\\WebApplication3\\WebApplication3\\Controllers\\MusteriIslemleriController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\MusteriIslemleriController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:09:09.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
